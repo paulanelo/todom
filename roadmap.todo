@@ -38,3 +38,9 @@
 ✔ Fazer com que o array de tarefas seja guardado/recuperado no localStorage do navegador @done(20-05-18 17:33)
 
 ☐ Fazer com que essa aplicação seja um PWA
+☐ Por arquivos de front-end na public
+☐ Fazer com que a rota '/' envie o index.html
+☐ Criar rota > controller para login
+☐ Criar middleware para verificar existência de token no header
+☐ Criar Rota que carrega as tarefas do usuário
+☐ Proteger rota com o middleware
